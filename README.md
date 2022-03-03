@@ -9,7 +9,7 @@
 <hr>
 
 ✏ **Connect with me:**<br><br>
-<a href="sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/43/000000/message-squared.png"/>
+<a href="mailto:sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/43/000000/message-squared.png"/>
 <a href="https://t.me/sbykoderova"><img src="https://img.icons8.com/fluency/42/000000/telegram-app.png"/>
 
 
