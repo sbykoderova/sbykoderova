@@ -1,6 +1,6 @@
-<h1 align="center">⠀⠀Hello!<img src="https://c.tenor.com/g2AKqlnJLqoAAAAC/fox-hi.gif" width="100" height="70"></h1>
+<h1 align="center">⠀⠀⠀⠀Hello!<img src="https://c.tenor.com/g2AKqlnJLqoAAAAC/fox-hi.gif" width="120" height="85"></h1>
 
-<h2 align="center">Welcome to my GitHub profile! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="25"/></h2>
+<h2 align="center">Welcome to my GitHub profile! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="23"/></h2>
 
 ### My name is Alexandra, i'm `html coder`⠀<img src="https://img.icons8.com/external-outline-juicy-fish/40/000000/external-code-coding-and-development-outline-outline-juicy-fish-11.png" width="30" height="30"/><br><br>
 ⚡**My languages and tools:**<br><br>
