@@ -9,8 +9,8 @@
 <hr>
 
 ✏ **Connect with me:**<br><br>
-<img src="https://img.icons8.com/windows/32/000000/gmail.png" width="15" height="15"/> sbykoderova94@gmail.com<br>
-<img src="https://img.icons8.com/ios-glyphs/30/000000/telegram-app.png" width="15" height="15"/> https://t.me/sbykoderova
+<a href="sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/43/000000/message-squared.png"/>
+<a href="https://t.me/sbykoderova"><img src="https://img.icons8.com/fluency/42/000000/telegram-app.png"/>
 
 
 <!--
