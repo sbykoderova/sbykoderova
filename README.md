@@ -1,4 +1,4 @@
-<h1 align="center">⠀⠀⠀⠀Hello!<img src="https://c.tenor.com/g2AKqlnJLqoAAAAC/fox-hi.gif" width="120" height="85"></h1>
+<h1 align="center">⠀⠀⠀⠀Hello!<img src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif" width="85" height="60"></h1>
 
 <h2 align="center">Welcome to my GitHub profile! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="23"/></h2>
 
@@ -12,7 +12,7 @@
 <a href="mailto:sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/43/000000/message-squared.png"/>
 <a href="https://t.me/sbykoderova"><img src="https://img.icons8.com/fluency/42/000000/telegram-app.png"/>
 
-
+<img src="https://c.tenor.com/nN_-M2QfN3sAAAAi/baby-yoda-star-wars.gif" width="80" height="75">
 <!--
 **sbykoderova/sbykoderova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
