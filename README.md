@@ -9,6 +9,6 @@
 <hr>
 
 ✏ **Connect with me:**<br><br>
-<a href="mailto:sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/43/000000/message-squared.png"/></a>
-<a href="https://t.me/sbykoderova"><img src="https://img.icons8.com/fluency/42/000000/telegram-app.png"/></a>
+<a href="mailto:sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/42/000000/message-squared.png"/></a>
+<a href="https://t.me/sbykoderova"><img src="https://img.icons8.com/fluency/41/000000/telegram-app.png"/></a>
 <p><img src="https://c.tenor.com/nN_-M2QfN3sAAAAi/baby-yoda-star-wars.gif" width="80" height="75"></p>
