@@ -1,6 +1,6 @@
 <h1 align="center">⠀⠀⠀⠀Hello!<img src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif" width="85" height="60"></h1>
 
-<h2 align="center">Welcome to my GitHub profile! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="23"/></h2>
+<h2 align="center">Welcome to my GitHub profile! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="17"/></h2>
 
 ### My name is Sasha, i'm `html coder` 💻<br><br>
 ⚡**My languages and tools:**<br><br>
@@ -9,6 +9,6 @@
 <hr>
 
 ✏ **Connect with me:**<br><br>
-<a href="mailto:sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/42/000000/message-squared.png"/></a>
-<a href="https://t.me/sbykoderova"><img src="https://img.icons8.com/fluency/41/000000/telegram-app.png"/></a>
+<a href="mailto:sbykoderova94@gmail.com"><img src="https://img.icons8.com/color/41/000000/message-squared.png"/></a>
+<a href="https://t.me/sbykoderova"><img src="https://img.icons8.com/fluency/40/000000/telegram-app.png"/></a>
 <p><img src="https://c.tenor.com/nN_-M2QfN3sAAAAi/baby-yoda-star-wars.gif" width="80" height="75"></p>
