@@ -2,9 +2,9 @@
 
 <h2 align="center">Welcome to my GitHub profile! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="17"/></h2>
 
-### My name is Sasha, i'm `html coder` 💻<br><br>
+### My name is Sasha, i'm `junior frontend developer` 💻<br><br>
 ⚡**My languages and tools:**<br><br>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/sass-avatar.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="45" height="45"/><img src="https://img.icons8.com/fluency/48/000000/figma.png" width="42" height="42"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="42" height="42"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/sass-avatar.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="45" height="45"/><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" width="48" height="48"/><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/git_icon_130933.png" width="49" height="46"/><img src="https://img.icons8.com/fluency/48/000000/figma.png" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/>
 
 <hr>
 
