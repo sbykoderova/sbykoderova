@@ -2,9 +2,9 @@
 
 <h3 align="center">Welcome to my GitHub profile! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="17"/></h3>
 
-### My name is Sasha, i'm `confident html coder and junior frontend developer.`<br><br>
+### My name is Sasha, i'm `confident html coder and junior frontend developer`<br><br>
 ⚡**My languages and tools:**<br><br>
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/css3.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/sass-avatar.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="45" height="45"/><img src="https://img.icons8.com/color/48/000000/react-native.png" width="43" height="43"/><img src="https://img.icons8.com/color/48/000000/git.png" width="46" height="45"/><img src="https://img.icons8.com/fluency/48/000000/figma.png" width="40" height="40"/><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" width="40" height="40"/>
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" width="45" height="45"/><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" width="45" height="45"/>&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" width="45" height="45"/>&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png" width="45" height="45"/>&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="45" height="45"/>&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="45" height="45"/>&nbsp;<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" width="45" height="45"/>&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="42" height="42"/>
 
 <hr>
 
