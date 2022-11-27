@@ -1,6 +1,6 @@
 <h1 align="center">⠀⠀⠀⠀Hello!<img src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif" width="85" height="60"></h1>
 
-<h3 align="center">Welcome to my page! <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="17"/></h3>
+<h3 align="center">Welcome to my page <img src="https://img.icons8.com/color/38/000000/like--v1.png" height="17"/></h3>
 
 ### My name is Sasha, i'm `html coder and junior frontend developer`<br><br>
 ⚡**My languages and tools:**<br><br>
