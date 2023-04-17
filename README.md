@@ -1,6 +1,6 @@
 <h1 align="center">⠀⠀⠀⠀Hello!<img src="https://c.tenor.com/tuvk4qUAcaUAAAAi/baby-yoda-star-wars.gif" width="85" height="60"></h1>
 
- <h3 align="center"> 🚀  I'm Sasha, frontend developer</h3>
+ <h3 align="center"> 🚀  I'm Sasha, Frontend Developer</h3>
  <hr>
  <div align="center">
   <h4>⚙ My languages and tools:</h4>
