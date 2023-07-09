@@ -15,5 +15,5 @@
  <h4>✏ Connect with me:</h4>
 
 <a href="mailto:sbykoderova94@gmail.com"><img src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564396-mail_81524.png" width="42" height="42"/></a>&nbsp;
-<a href="https://t.me/sbykoderova"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" width="42" height="42"/></a>
+<a href="https://t.me/krasnovasanya"><img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" width="42" height="42"/></a>
   </div>
